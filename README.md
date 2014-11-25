@@ -14,6 +14,7 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 * cranberry sauce
 * jello
 * pumpkin pie
+* pecan pie
 
 ## Activities
 
