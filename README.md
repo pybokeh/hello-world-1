@@ -28,3 +28,5 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 
 ## TODO
  - [ ] make the food
+
+## Don't forget beer!
