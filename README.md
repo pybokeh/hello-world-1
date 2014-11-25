@@ -27,6 +27,7 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 
 * Cards (euchre, etc.) :spades: :hearts: :clubs: :diamonds:
 * Settlers of Catan
+* [Pandemic](http://boardgamegeek.com/boardgame/30549/pandemic)
 
 ## TODO
  - [ ] make the food
