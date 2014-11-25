@@ -26,6 +26,7 @@ Just so I don't lose my mind, here are some notes for this year's gathering.
 ## Games
 
 * Cards (euchre, etc.) :spades: :hearts: :clubs: :diamonds:
+* Cards Against Humanity
 * Settlers of Catan
 * [Pandemic](http://boardgamegeek.com/boardgame/30549/pandemic)
 
